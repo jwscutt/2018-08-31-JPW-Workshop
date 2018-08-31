@@ -1,8 +1,8 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
-carpentry: "SWC"    # what kind of Carpentry (must be either "lc" or "dc" or "swc")
+carpentry: "swc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc")
 venue: "TBD"        # brief name of host site without address (e.g., "Euphoric State University")
-address: "TBD")
+address: "TBD"       # (Room 101, My University Institution, 123 Relax Road, Calgary, Alberta)
 country: "ca"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
 latlng: "51.078621	-114.136719"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
